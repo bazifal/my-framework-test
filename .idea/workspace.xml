@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8a2de4b-a103-420b-af1c-1c97c2ebfcd8" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Application.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/Application.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+              <folding>
+                <element signature="e#6#89#0#PHP" expanded="true" />
+                <element signature="e#475#864#0#PHP" expanded="true" />
+                <element signature="e#914#1513#0#PHP" expanded="true" />
+                <element signature="e#1643#1921#0#PHP" expanded="true" />
+                <element signature="e#2040#2622#0#PHP" expanded="true" />
+                <element signature="e#2651#2697#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PostController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/PostController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="980">
+              <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+              <folding>
+                <element signature="e#119#139#0#PHP" expanded="true" />
+                <element signature="e#339#529#0#PHP" expanded="true" />
+                <element signature="e#1059#1297#0#PHP" expanded="true" />
+                <element signature="e#1341#1640#0#PHP" expanded="true" />
+                <element signature="e#1700#1896#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ActiveRecord.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/ActiveRecord.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="446">
+              <caret line="61" column="35" lean-forward="true" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
+              <folding>
+                <element signature="e#468#710#0#PHP" expanded="true" />
+                <element signature="e#848#1059#0#PHP" expanded="true" />
+                <element signature="e#1416#1993#0#PHP" expanded="true" />
+                <element signature="e#2035#2469#0#PHP" expanded="true" />
+                <element signature="e#2534#2730#0#PHP" expanded="true" />
+                <element signature="e#2798#2985#0#PHP" expanded="true" />
+                <element signature="e#3027#3094#0#PHP" expanded="true" />
+                <element signature="e#3143#3257#0#PHP" expanded="true" />
+                <element signature="e#3361#3528#0#PHP" expanded="true" />
+                <element signature="e#3637#3797#0#PHP" expanded="true" />
+                <element signature="e#3903#4017#0#PHP" expanded="true" />
+                <element signature="e#4333#4419#0#PHP" expanded="true" />
+                <marker date="1510684166552" expanded="true" signature="1815:1857" ph="INSERT INTO ${$table}... " />
+                <marker date="1510684166552" expanded="true" signature="2416:2433" ph="UPDATE ${$ta... " />
+                <marker date="1510684166552" expanded="true" signature="2416:2434" ph="UPDATE ${$ta... " />
+                <marker date="1510684166552" expanded="true" signature="2416:2444" ph="UPDATE ${$ta... " />
+                <marker date="1510684166552" expanded="true" signature="2416:2445" ph="UPDATE ${$ta... " />
+                <marker date="1510684166552" expanded="true" signature="2646:2677" ph="DELETE FROM " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DbConnection.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/DbConnection.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="877">
+              <caret line="98" column="35" lean-forward="false" selection-start-line="98" selection-start-column="20" selection-end-line="98" selection-end-column="35" />
+              <folding>
+                <element signature="e#6#89#0#PHP" expanded="true" />
+                <element signature="e#108#116#0#PHP" expanded="true" />
+                <element signature="e#490#654#0#PHP" expanded="true" />
+                <element signature="e#707#781#0#PHP" expanded="true" />
+                <element signature="e#885#1184#0#PHP" expanded="true" />
+                <element signature="e#1308#1455#0#PHP" expanded="true" />
+                <element signature="e#1620#1810#0#PHP" expanded="true" />
+                <element signature="e#1851#1946#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_2017-11-14.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_2017-11-14.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-559">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/post/edit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+              <folding>
+                <marker date="1510684134434" expanded="true" signature="270:466" ph="..." />
+                <marker date="1510684134434" expanded="true" signature="495:668" ph="..." />
+                <marker date="1510684134434" expanded="true" signature="697:891" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/post/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="9" column="53" lean-forward="false" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Base.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/Base.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding>
+                <element signature="e#977#1172#0#PHP" expanded="true" />
+                <element signature="e#1216#1352#0#PHP" expanded="true" />
+                <element signature="e#1415#1562#0#PHP" expanded="true" />
+                <element signature="e#1628#1720#0#PHP" expanded="true" />
+                <element signature="e#1843#2705#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Post.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/Post.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="741">
+              <caret line="63" column="29" lean-forward="true" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
+              <folding>
+                <element signature="e#114#136#0#PHP" expanded="true" />
+                <element signature="e#468#610#0#PHP" expanded="true" />
+                <element signature="e#651#728#0#PHP" expanded="true" />
+                <element signature="e#1577#1689#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/core/Test.php" />
+        <option value="$PROJECT_DIR$/core/Model.php" />
+        <option value="$PROJECT_DIR$/core/ActiveQuery.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/app/views/post/view.php" />
+        <option value="$PROJECT_DIR$/app/config/main.php" />
+        <option value="$PROJECT_DIR$/core/Component.php" />
+        <option value="$PROJECT_DIR$/web/index.php" />
+        <option value="$PROJECT_DIR$/core/HttpException.php" />
+        <option value="$PROJECT_DIR$/app/views/layouts/main.php" />
+        <option value="$PROJECT_DIR$/core/Application.php" />
+        <option value="$PROJECT_DIR$/core/Controller.php" />
+        <option value="$PROJECT_DIR$/core/DbConnection.php" />
+        <option value="$PROJECT_DIR$/app/views/post/edit.php" />
+        <option value="$PROJECT_DIR$/core/ActiveRecord.php" />
+        <option value="$PROJECT_DIR$/app/controllers/PostController.php" />
+        <option value="$PROJECT_DIR$/core/Base.php" />
+        <option value="$PROJECT_DIR$/app/views/post/index.php" />
+        <option value="$PROJECT_DIR$/app/models/Post.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="test.loc" id="3c7a22ee-05e8-4641-8ec9-ee38a545b231" name="test.loc" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="/Users/bazifal/Sites/test" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.1" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="preferences.sourceCode.PHP" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Web Application.www">
+    <configuration name="www" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="test.loc" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8a2de4b-a103-420b-af1c-1c97c2ebfcd8" name="Default" comment="" />
+      <created>1510661826136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1510661826136</updated>
+      <workItem from="1510661827310" duration="3619000" />
+      <workItem from="1510665834034" duration="1219000" />
+      <workItem from="1510667146824" duration="17835000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22673000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39980546" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="22" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PhpWebAppRunConfigurationType">
+        <watch expression="empty($this-&gt;id)" language="PHP" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="30" lean-forward="false" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding>
+            <element signature="e#6#89#0#PHP" expanded="true" />
+            <element signature="e#475#864#0#PHP" expanded="true" />
+            <element signature="e#914#1513#0#PHP" expanded="true" />
+            <element signature="e#1643#1921#0#PHP" expanded="true" />
+            <element signature="e#2040#2622#0#PHP" expanded="true" />
+            <element signature="e#2651#2697#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Component.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="31" column="48" lean-forward="false" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+          <folding>
+            <element signature="e#449#539#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/DbConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2576">
+          <caret line="92" column="29" lean-forward="true" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="29" />
+          <folding>
+            <element signature="e#6#89#0#PHP" expanded="true" />
+            <element signature="e#108#116#0#PHP" expanded="true" />
+            <element signature="e#490#654#0#PHP" expanded="true" />
+            <element signature="e#707#781#0#PHP" expanded="true" />
+            <element signature="e#885#1184#0#PHP" expanded="true" />
+            <element signature="e#1308#1455#0#PHP" expanded="true" />
+            <element signature="e#1620#1810#0#PHP" expanded="true" />
+            <element signature="e#1851#1946#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/ActiveQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#744#861#0#PHP" expanded="true" />
+            <element signature="e#958#1302#0#PHP" expanded="true" />
+            <element signature="e#1404#1622#0#PHP" expanded="true" />
+            <element signature="e#1692#1799#0#PHP" expanded="true" />
+            <element signature="e#1870#1981#0#PHP" expanded="true" />
+            <element signature="e#2051#2160#0#PHP" expanded="true" />
+            <element signature="e#3374#3489#0#PHP" expanded="true" />
+            <element signature="e#3571#3833#0#PHP" expanded="true" />
+            <marker date="1510670466237" expanded="true" signature="2337:2344" ph="SELECT * FRO... ${$class}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/PDO/PDO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22848">
+          <caret line="816" column="39" lean-forward="false" selection-start-line="816" selection-start-column="39" selection-end-line="816" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="e#977#1172#0#PHP" expanded="true" />
+            <element signature="e#1216#1352#0#PHP" expanded="true" />
+            <element signature="e#1415#1562#0#PHP" expanded="true" />
+            <element signature="e#1628#1720#0#PHP" expanded="true" />
+            <element signature="e#1843#2705#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ezh2/vendor/yiisoft/yii2/classes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ezh2/vendor/yiisoft/yii2/BaseYii.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10584">
+          <caret line="532" column="5" lean-forward="true" selection-start-line="525" selection-start-column="4" selection-end-line="532" selection-end-column="5" />
+          <folding>
+            <element signature="e#10973#11850#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/ActiveRecord.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="e#468#710#0#PHP" expanded="true" />
+            <element signature="e#848#1059#0#PHP" expanded="true" />
+            <element signature="e#1416#1993#0#PHP" expanded="true" />
+            <element signature="e#2035#2469#0#PHP" expanded="true" />
+            <element signature="e#2534#2730#0#PHP" expanded="true" />
+            <element signature="e#2798#2985#0#PHP" expanded="true" />
+            <element signature="e#3027#3094#0#PHP" expanded="true" />
+            <element signature="e#3143#3257#0#PHP" expanded="true" />
+            <element signature="e#3361#3528#0#PHP" expanded="true" />
+            <element signature="e#3637#3797#0#PHP" expanded="true" />
+            <element signature="e#3903#4017#0#PHP" expanded="true" />
+            <element signature="e#4333#4419#0#PHP" expanded="true" />
+            <marker date="1510684166552" expanded="true" signature="1815:1857" ph="INSERT INTO ${$table}... " />
+            <marker date="1510684166552" expanded="true" signature="2416:2433" ph="UPDATE ${$ta... " />
+            <marker date="1510684166552" expanded="true" signature="2416:2434" ph="UPDATE ${$ta... " />
+            <marker date="1510684166552" expanded="true" signature="2416:2444" ph="UPDATE ${$ta... " />
+            <marker date="1510684166552" expanded="true" signature="2416:2445" ph="UPDATE ${$ta... " />
+            <marker date="1510684166552" expanded="true" signature="2646:2677" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="30" lean-forward="true" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding>
+            <element signature="e#6#89#0#PHP" expanded="true" />
+            <element signature="e#475#864#0#PHP" expanded="true" />
+            <element signature="e#914#1513#0#PHP" expanded="true" />
+            <element signature="e#1643#1921#0#PHP" expanded="true" />
+            <element signature="e#2040#2622#0#PHP" expanded="true" />
+            <element signature="e#2651#2697#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/ActiveRecord.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="e#468#710#0#PHP" expanded="true" />
+            <element signature="e#848#1059#0#PHP" expanded="true" />
+            <element signature="e#1416#1993#0#PHP" expanded="true" />
+            <element signature="e#2035#2469#0#PHP" expanded="true" />
+            <element signature="e#2534#2730#0#PHP" expanded="true" />
+            <element signature="e#2798#2985#0#PHP" expanded="true" />
+            <element signature="e#3027#3094#0#PHP" expanded="true" />
+            <element signature="e#3143#3257#0#PHP" expanded="true" />
+            <element signature="e#3361#3528#0#PHP" expanded="true" />
+            <element signature="e#3637#3797#0#PHP" expanded="true" />
+            <element signature="e#3903#4017#0#PHP" expanded="true" />
+            <element signature="e#4333#4419#0#PHP" expanded="true" />
+            <marker date="1510684166552" expanded="true" signature="1815:1857" ph="INSERT INTO ${$table}... " />
+            <marker date="1510684166552" expanded="true" signature="2416:2433" ph="UPDATE ${$ta... " />
+            <marker date="1510684166552" expanded="true" signature="2416:2434" ph="UPDATE ${$ta... " />
+            <marker date="1510684166552" expanded="true" signature="2416:2444" ph="UPDATE ${$ta... " />
+            <marker date="1510684166552" expanded="true" signature="2416:2445" ph="UPDATE ${$ta... " />
+            <marker date="1510684166552" expanded="true" signature="2646:2677" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Component.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="e#449#539#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/ActiveQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#744#861#0#PHP" expanded="true" />
+            <element signature="e#958#1302#0#PHP" expanded="true" />
+            <element signature="e#1404#1622#0#PHP" expanded="true" />
+            <element signature="e#1692#1799#0#PHP" expanded="true" />
+            <element signature="e#1870#1981#0#PHP" expanded="true" />
+            <element signature="e#2051#2160#0#PHP" expanded="true" />
+            <element signature="e#3374#3489#0#PHP" expanded="true" />
+            <element signature="e#3571#3833#0#PHP" expanded="true" />
+            <marker date="1510670466237" expanded="true" signature="2337:2344" ph="SELECT * FRO... ${$class}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/PDO/PDO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22848">
+          <caret line="816" column="39" lean-forward="false" selection-start-line="816" selection-start-column="39" selection-end-line="816" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="e#977#1172#0#PHP" expanded="true" />
+            <element signature="e#1216#1352#0#PHP" expanded="true" />
+            <element signature="e#1415#1562#0#PHP" expanded="true" />
+            <element signature="e#1628#1720#0#PHP" expanded="true" />
+            <element signature="e#1843#2705#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ezh2/vendor/yiisoft/yii2/classes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ezh2/vendor/yiisoft/yii2/BaseYii.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10584">
+          <caret line="532" column="5" lean-forward="true" selection-start-line="525" selection-start-column="4" selection-end-line="532" selection-end-column="5" />
+          <folding>
+            <element signature="e#10973#11850#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/DbConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="60" column="5" lean-forward="true" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+          <folding>
+            <element signature="e#6#89#0#PHP" expanded="true" />
+            <element signature="e#108#116#0#PHP" expanded="true" />
+            <element signature="e#490#654#0#PHP" expanded="true" />
+            <element signature="e#707#781#0#PHP" expanded="true" />
+            <element signature="e#885#1184#0#PHP" expanded="true" />
+            <element signature="e#1308#1455#0#PHP" expanded="true" />
+            <element signature="e#1620#1810#0#PHP" expanded="true" />
+            <element signature="e#1851#1946#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Test.php" />
+    <entry file="file://$PROJECT_DIR$/../ezh2/vendor/yiisoft/yii2/classes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/PDO/PDO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22848">
+          <caret line="816" column="39" lean-forward="false" selection-start-line="816" selection-start-column="39" selection-end-line="816" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="908">
+          <caret line="766" column="9" lean-forward="false" selection-start-line="766" selection-start-column="9" selection-end-line="766" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_0.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="305" column="35" lean-forward="true" selection-start-line="305" selection-start-column="35" selection-end-line="305" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/post/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ezh2/common/config/main-local.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="55" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ezh2/vendor/yiisoft/yii2/BaseYii.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="749">
+          <caret line="296" column="5" lean-forward="false" selection-start-line="275" selection-start-column="4" selection-end-line="296" selection-end-column="5" />
+          <folding>
+            <element signature="e#10973#11850#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ezh2/frontend/web/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="55" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ezh2/vendor/yiisoft/yii2/Yii.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ezh2/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/http/http.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12852">
+          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/HttpException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding>
+            <element signature="e#6#89#0#PHP" expanded="false" />
+            <element signature="e#768#1220#0#PHP" expanded="false" />
+            <element signature="e#1316#1387#0#PHP" expanded="false" />
+            <element signature="e#1465#1570#0#PHP" expanded="false" />
+            <element signature="e#1648#1915#0#PHP" expanded="false" />
+            <element signature="e#1998#2063#0#PHP" expanded="false" />
+            <element signature="e#2176#2279#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/ActiveQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="202" column="0" lean-forward="false" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
+          <folding>
+            <element signature="e#744#861#0#PHP" expanded="true" />
+            <element signature="e#958#1302#0#PHP" expanded="true" />
+            <element signature="e#1404#1622#0#PHP" expanded="true" />
+            <element signature="e#1692#1799#0#PHP" expanded="true" />
+            <element signature="e#1870#1981#0#PHP" expanded="true" />
+            <element signature="e#2051#2160#0#PHP" expanded="true" />
+            <element signature="e#3374#3489#0#PHP" expanded="true" />
+            <element signature="e#3571#3833#0#PHP" expanded="true" />
+            <marker date="1510670466237" expanded="true" signature="2337:2344" ph="SELECT * FRO... ${$class}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="868">
+          <caret line="31" column="45" lean-forward="false" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/filter/filter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="29" column="9" lean-forward="false" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Component.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding>
+            <element signature="e#449#539#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#89#0#PHP" expanded="true" />
+            <element signature="e#325#448#0#PHP" expanded="true" />
+            <element signature="e#593#856#0#PHP" expanded="true" />
+            <element signature="e#1000#1295#0#PHP" expanded="true" />
+            <element signature="e#1439#1631#0#PHP" expanded="true" />
+            <element signature="e#2209#2321#0#PHP" expanded="true" />
+            <element signature="e#2372#2481#0#PHP" expanded="true" />
+            <element signature="e#2544#2651#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="825" column="9" lean-forward="false" selection-start-line="825" selection-start-column="9" selection-end-line="825" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#977#1172#0#PHP" expanded="true" />
+            <element signature="e#1216#1352#0#PHP" expanded="true" />
+            <element signature="e#1415#1562#0#PHP" expanded="true" />
+            <element signature="e#1628#1720#0#PHP" expanded="true" />
+            <element signature="e#1843#2705#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/post/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding>
+            <marker date="1510684134434" expanded="true" signature="270:466" ph="..." />
+            <marker date="1510684134434" expanded="true" signature="495:668" ph="..." />
+            <marker date="1510684134434" expanded="true" signature="697:891" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/post/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="53" lean-forward="false" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/Post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="63" column="29" lean-forward="true" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
+          <folding>
+            <element signature="e#114#136#0#PHP" expanded="true" />
+            <element signature="e#468#610#0#PHP" expanded="true" />
+            <element signature="e#651#728#0#PHP" expanded="true" />
+            <element signature="e#1577#1689#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <element signature="e#6#89#0#PHP" expanded="true" />
+            <element signature="e#475#864#0#PHP" expanded="true" />
+            <element signature="e#914#1513#0#PHP" expanded="true" />
+            <element signature="e#1643#1921#0#PHP" expanded="true" />
+            <element signature="e#2040#2622#0#PHP" expanded="true" />
+            <element signature="e#2651#2697#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/PostController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="980">
+          <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+          <folding>
+            <element signature="e#119#139#0#PHP" expanded="true" />
+            <element signature="e#339#529#0#PHP" expanded="true" />
+            <element signature="e#1059#1297#0#PHP" expanded="true" />
+            <element signature="e#1341#1640#0#PHP" expanded="true" />
+            <element signature="e#1700#1896#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/ActiveRecord.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="61" column="35" lean-forward="true" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
+          <folding>
+            <element signature="e#468#710#0#PHP" expanded="true" />
+            <element signature="e#848#1059#0#PHP" expanded="true" />
+            <element signature="e#1416#1993#0#PHP" expanded="true" />
+            <element signature="e#2035#2469#0#PHP" expanded="true" />
+            <element signature="e#2534#2730#0#PHP" expanded="true" />
+            <element signature="e#2798#2985#0#PHP" expanded="true" />
+            <element signature="e#3027#3094#0#PHP" expanded="true" />
+            <element signature="e#3143#3257#0#PHP" expanded="true" />
+            <element signature="e#3361#3528#0#PHP" expanded="true" />
+            <element signature="e#3637#3797#0#PHP" expanded="true" />
+            <element signature="e#3903#4017#0#PHP" expanded="true" />
+            <element signature="e#4333#4419#0#PHP" expanded="true" />
+            <marker date="1510684166552" expanded="true" signature="1815:1857" ph="INSERT INTO ${$table}... " />
+            <marker date="1510684166552" expanded="true" signature="2416:2433" ph="UPDATE ${$ta... " />
+            <marker date="1510684166552" expanded="true" signature="2416:2434" ph="UPDATE ${$ta... " />
+            <marker date="1510684166552" expanded="true" signature="2416:2444" ph="UPDATE ${$ta... " />
+            <marker date="1510684166552" expanded="true" signature="2416:2445" ph="UPDATE ${$ta... " />
+            <marker date="1510684166552" expanded="true" signature="2646:2677" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/DbConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="877">
+          <caret line="98" column="35" lean-forward="false" selection-start-line="98" selection-start-column="20" selection-end-line="98" selection-end-column="35" />
+          <folding>
+            <element signature="e#6#89#0#PHP" expanded="true" />
+            <element signature="e#108#116#0#PHP" expanded="true" />
+            <element signature="e#490#654#0#PHP" expanded="true" />
+            <element signature="e#707#781#0#PHP" expanded="true" />
+            <element signature="e#885#1184#0#PHP" expanded="true" />
+            <element signature="e#1308#1455#0#PHP" expanded="true" />
+            <element signature="e#1620#1810#0#PHP" expanded="true" />
+            <element signature="e#1851#1946#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_2017-11-14.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-559">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
